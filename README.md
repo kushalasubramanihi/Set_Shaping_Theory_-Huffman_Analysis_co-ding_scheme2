@@ -1,4 +1,4 @@
-# Set_Shaping_Theory_-Huffman_Analysis_co-ding_scheme2
+# Set_Shaping_Theory_-Huffman_Analysis_coding_scheme2
 Set_Shaping_Theory_Huffman_Analysis_coding_scheme
 
 In this version of the program presented in the following article:
